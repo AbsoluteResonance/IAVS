@@ -1,6 +1,4 @@
-# IAVS
-
-**IAVS: A Multi-Center Dataset and Applicability Evaluation System for Computational Fluid Dynamics-Oriented Intracranial Aneurysm Segmentation**
+# IAVS: A Multi-Center Dataset and Applicability Evaluation System for Computational Fluid Dynamics-Oriented Intracranial Aneurysm Segmentation
 
 > Feiyang Xiao, Yichi Zhang, Xigui Li, Yuanye Zhou, Chen Jiang, Xin Guo, Limei Han, Yuxin Li, Fengping Zhu, and Yuan Cheng. MICCAI 2026.
 

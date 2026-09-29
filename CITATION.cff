@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use IAVS, please cite the MICCAI 2026 paper."
+title: "IAVS: A Multi-Center Dataset and Applicability Evaluation System for Computational Fluid Dynamics-Oriented Intracranial Aneurysm Segmentation"
+type: conference-paper
+authors:
+  - family-names: Xiao
+    given-names: Feiyang
+  - family-names: Zhang
+    given-names: Yichi
+  - family-names: Li
+    given-names: Xigui
+  - family-names: Zhou
+    given-names: Yuanye
+  - family-names: Jiang
+    given-names: Chen
+  - family-names: Guo
+    given-names: Xin
+  - family-names: Han
+    given-names: Limei
+  - family-names: Li
+    given-names: Yuxin
+  - family-names: Zhu
+    given-names: Fengping
+  - family-names: Cheng
+    given-names: Yuan
+date-released: 2026-09-29
+preferred-citation:
+  type: conference-paper
+  title: "IAVS: A Multi-Center Dataset and Applicability Evaluation System for Computational Fluid Dynamics-Oriented Intracranial Aneurysm Segmentation"
+  authors:
+    - family-names: Xiao
+      given-names: Feiyang
+    - family-names: Zhang
+      given-names: Yichi
+    - family-names: Li
+      given-names: Xigui
+    - family-names: Zhou
+      given-names: Yuanye
+    - family-names: Jiang
+      given-names: Chen
+    - family-names: Guo
+      given-names: Xin
+    - family-names: Han
+      given-names: Limei
+    - family-names: Li
+      given-names: Yuxin
+    - family-names: Zhu
+      given-names: Fengping
+    - family-names: Cheng
+      given-names: Yuan
+  conference:
+    name: "Medical Image Computing and Computer Assisted Intervention"
+  year: 2026
+  url: "https://papers.miccai.org/miccai-2026/paper/6086_paper.pdf"
