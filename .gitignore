@@ -1,0 +1,30 @@
+# Never commit participant-level imaging, derived geometry, or simulation outputs.
+data/**/*.nii
+data/**/*.nii.gz
+data/**/*.nrrd
+data/**/*.mha
+data/**/*.mhd
+data/**/*.stl
+data/**/*.vtk
+data/**/*.vtp
+data/**/*.vtu
+data/**/*.obj
+data/**/*.ply
+data/**/*.step
+data/**/*.stp
+data/**/*.scdoc
+data/**/*.cas
+data/**/*.dat
+
+# Common experiment artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+wandb/
+runs/
+outputs/
+checkpoints/
+*.ckpt
+*.pth
+*.pt
