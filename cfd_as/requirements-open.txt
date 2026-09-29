@@ -1,0 +1,4 @@
+numpy>=1.23
+nibabel>=5.0
+scikit-image>=0.20
+pyvista>=0.43

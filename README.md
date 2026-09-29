@@ -49,7 +49,7 @@ CFD-AS = TdP / (TP + FP + FN).
 
 VTA, MGA, and BFA are diagnostic stages rather than stand-alone quality metrics. They identify whether a failure arose from a topological defect, unsuccessful meshing, or failure in the subsequent flow simulation. The reference pipeline comprises topology inspection, morphological preprocessing, surface and centerline extraction, inlet/outlet cutting, mesh enhancement and fitting, boundary assignment, meshing, and CFD computation.
 
-The runnable CFD-AS implementation, its environment specification, and example inputs will be released in `cfd_as/` in a subsequent update. It is kept separate from this documentation-only initial release while the code and third-party dependencies are being cleaned for publication.
+The runnable [CFD-AS reference implementation](cfd_as/README.md), its environment specification, and a scored example are available in `cfd_as/`. The geometry workflow retains its original 3D Slicer, SlicerVMTK, Geomagic Wrap, and Ansys SpaceClaim integrations; commercial applications and patient-level inputs are not bundled.
 
 ## Repository status
 
@@ -58,7 +58,7 @@ The runnable CFD-AS implementation, its environment specification, and example i
 | Paper, citation, and dataset documentation | Available |
 | Source-data access and redistribution policy | Available |
 | Public IAVS derivative-data release | In preparation; see the data card |
-| CFD-AS implementation | In preparation |
+| CFD-AS implementation | Available in [`cfd_as/`](cfd_as/README.md) |
 | Baseline training/inference code and weights | In preparation |
 
 ## Citation
